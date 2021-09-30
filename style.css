@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: palevioletred;
+
+}
+
+label{
+    display: block;
+    padding-bottom: 1rem ;
+}
